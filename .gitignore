@@ -1,0 +1,37 @@
+# Unity generated data and machine-specific configuration
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Bb]uild/
+/[Bb]uilds/
+/[Uu]ser[Ss]ettings/
+/MemoryCaptures/
+/Recordings/
+/.vs/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.log
+mono_crash.*
+.DS_Store
+
+# Purchased Asset Store dependency: import from your own Unity account.
+/Assets/VIVID_Arts/
+/Assets/VIVID_Arts.meta
+
+# Local editor command/report scratch files
+/ForestReports/command.txt
+/ForestReports/error.txt
+/ForestReports/last-command.txt
+/ForestReports/assets.txt
+/ForestReports/built.txt

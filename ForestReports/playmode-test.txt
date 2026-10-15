@@ -1,0 +1,9 @@
+PASS
+Simulated XR input: standing 1.65m, seated 0.95m, lying 0.22m
+Horizontal head position stays at zero despite tracked X/Z motion
+Head rotation preserved
+Controller position remains aligned with constrained head
+Grass contact plays rustle and updates bending shader
+Terrain contact emits leaf-litter motes
+Wind ambience plays and loops
+Hardware stereo, hand tracking and haptics require a headset test.

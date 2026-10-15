@@ -1,0 +1,5 @@
+Scene: Assets/ForestExperience/Scenes/Forest Sanctuary.unity
+Renderers: 2638
+Touch vegetation: 96
+OpenXR: Standalone and Android
+PASS • materials, terrain, audio, rig, touch surfaces and XR settings

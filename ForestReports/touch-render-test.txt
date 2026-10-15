@@ -1,0 +1,1 @@
+PASS • touched grass changes 138884 rendered pixels.

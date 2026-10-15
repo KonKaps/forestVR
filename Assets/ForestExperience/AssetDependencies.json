@@ -1,0 +1,147 @@
+{
+  "assetPack": "Mountain Lake - Forest Pack",
+  "publisher": "VIVID Arts",
+  "version": "1.1.0",
+  "requiredAssets": [
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Audio/MLRT_Wind.wav",
+      "guid": "de8b149f64f583f478c38d636c26bbdf"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_Fern_01.fbx",
+      "guid": "8e84063eac004ff45b7a754b79aaa42a"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_Fern_02.fbx",
+      "guid": "827cf2e3e4c52ef42a6bb453c22b34cf"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_Fern_03.fbx",
+      "guid": "5d22458d0df562842870ce061ab2fbe5"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_Grass_01_Var1.fbx",
+      "guid": "3428654d495cb744aabebafd1cd50fca"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_Grass_01_Var3.fbx",
+      "guid": "9d21b00f3c50fe54cb2a0f13ddfd7327"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_MountainRange.fbx",
+      "guid": "8aaf91a256f0264478129645b2558f0f"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_SugarMaple_01_Var1.fbx",
+      "guid": "91463f3ab9ec73c4699a59a65770a039"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_SugarMaple_02_Var1.fbx",
+      "guid": "c7937d2698965014a8f4f34e623d6cb1"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_SugarMaple_03_Var1.fbx",
+      "guid": "bc14449e84fe80e4a9ec87e37d46f3bd"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_SugarMaple_04_Var1.fbx",
+      "guid": "7d40911e8bbdbf845a9520b30f780ba3"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MLRT_Tree_Far_Group_04.fbx",
+      "guid": "433f493ab8854f748984c55326037cfc"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MT_Rock_Small_01.fbx",
+      "guid": "78b95f0d452c6574d86f41338af816f6"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MT_Rock_Small_02.fbx",
+      "guid": "b5343e09842a47b44b50d9a97fe2d0d2"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Mesh/MT_Rock_Small_03.fbx",
+      "guid": "2f8bb402790f684408bb8f86c5a5131d"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_Fern_Albedo.png",
+      "guid": "7b51f5d17a5fd8d4fa2f5254c34205ad"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_Fern_Normal.png",
+      "guid": "00a1cdf388e9f954a862d7fcd6340842"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_Grass_BaseColor.png",
+      "guid": "ceae9c0186ec5f342b686b3c297db58a"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_Grass_Normal.png",
+      "guid": "01e63c3b8e9bc48428859055f46adbc3"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_Mountainrange_BaseMap.png",
+      "guid": "015226dfb7046844485465c630ca178b"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_Mountainrange_Normal.png",
+      "guid": "5191cd69f970446409fffb3f87dedbd1"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_SugarMaple_Frond_Albedo.png",
+      "guid": "459772acd829e2340a074e57bdbecd14"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_SugarMaple_Frond_Normal.png",
+      "guid": "a11547c12d97fba439e89e3b7105c8f6"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_TreeBases_BaseMap.png",
+      "guid": "22b21dc3ba9328e4884a4d29bb27afec"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_TreeBases_Normal.png",
+      "guid": "743c2a09de75b0f41a0c9696cbdbfc63"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_Tree_Far_Frond_Albedo.png",
+      "guid": "e7b9393b5544fd3448c4a2edc2f1ad12"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MLRT_Tree_Far_Frond_Normal.png",
+      "guid": "c0648afa62f486840a7a8d620b63b1e2"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/ML_Moss_Green_Ground_BaseColor.png",
+      "guid": "177bb0b83c6b84b44beaa1c028a5efa2"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/ML_Moss_Green_Ground_Normal.png",
+      "guid": "5f421e16b22b7a04f8bd99a5bc5d6505"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/ML_Tree_005_Bark_BaseColor.png",
+      "guid": "694c29c506f656047b4bde3d2b678bcb"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/ML_Tree_005_Bark_Normal.png",
+      "guid": "1926cd49e1efa2a47a1cbeacfb037f63"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MT_Rocks_Optimized_DefaultMaterial_BaseMap.png",
+      "guid": "c6b13f9394dda184ca6f24bd6d8bd99a"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/MT_Rocks_Optimized_DefaultMaterial_Normal.png",
+      "guid": "4c6cf3f11435017478c7da125ba4e7a5"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/South Hills Forest Floor Terrain_Optimized_DefaultMaterial_BaseColor.png",
+      "guid": "8433b74f5dc87834a8a14a91c3806fd1"
+    },
+    {
+      "path": "Assets/VIVID_Arts/Assets/MountainLake/Textures/South Hills Forest Floor Terrain_Optimized_DefaultMaterial_Normal.png",
+      "guid": "7fa83de1d1296ac499dcbe393fad1554"
+    }
+  ]
+}
